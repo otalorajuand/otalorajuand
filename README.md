@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otalorajuand&label=Profile%20views&color=0e75b6&style=flat" alt="otalorajuand" /> </p>
 
-- 👨‍💻 You can look at my web page at [https://otalorajuand.github.io/](https://otalorajuand.github.io/)
+- 👨‍💻 You can look at my web page here [https://otalorajuand.github.io/](https://otalorajuand.github.io/)
 
 - 📫 How to reach me **otalorajuand@gmail.com**
 
