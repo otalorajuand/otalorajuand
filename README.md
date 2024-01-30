@@ -1,14 +1,12 @@
 <img width="797" alt="image" src="https://github.com/otalorajuand/otalorajuand/assets/22607461/fe6c4699-91b2-4157-b572-3d98698f37ea">
 <h1 align="center">Hi 👋, I'm Juan David Otálora</h1>
-<h3 align="center">I'm a machine learning engineer and data scientist with an education in mathematical engineering and economics, interested in the application of mathematical and statistical models for solving real-life problems. I have experience working as a data scientist with financial models and as a consultant for the banking industry. I'm very curious and responsible, always wanting to see the world in new ways and try different tools to solve problems. I have been trained to approach problem-solving in a systematic and organized way, applying quantitative models to advise companies to make better decisions.</h3>
+<h4 align="center">I'm a machine learning engineer and data scientist with an education in mathematical engineering and economics, interested in the application of mathematical and statistical models for solving real-life problems. I have experience working as a data scientist with financial models and as a consultant for the banking industry. I'm very curious and responsible, always wanting to see the world in new ways and try different tools to solve problems. I have been trained to approach problem-solving in a systematic and organized way, applying quantitative models to advise companies to make better decisions.</h4>
 
 <img align="right"  alt="coding" width=400 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXAxcDFwZG9sc2YxYTVlZjdyOW95ZnF1MWw0dTJ4MjN1OGIwc3J0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otalorajuand&label=Profile%20views&color=0e75b6&style=flat" alt="otalorajuand" /> </p>
 
 - 👨‍💻 You can look at my web page at [https://otalorajuand.github.io/](https://otalorajuand.github.io/)
-
-- 📝 I regularly write articles on [https://medium.com/@5180_90108](https://medium.com/@5180_90108)
 
 - 📫 How to reach me **otalorajuand@gmail.com**
 
