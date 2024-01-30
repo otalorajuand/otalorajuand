@@ -6,9 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otalorajuand&label=Profile%20views&color=0e75b6&style=flat" alt="otalorajuand" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://otalorajuand.github.io/](https://otalorajuand.github.io/)
-
-- 📝 I regularly write articles on [https://medium.com/@5180_90108](https://medium.com/@5180_90108)
+- 👨‍💻 You can look at my web page here [https://otalorajuand.github.io/](https://otalorajuand.github.io/)
 
 - 📫 How to reach me **otalorajuand@gmail.com**
 
